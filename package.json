@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "scripts": {
+  "start": "node app.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": ""
+},
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
